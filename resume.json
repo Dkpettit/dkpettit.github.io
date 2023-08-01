@@ -1,0 +1,95 @@
+{
+  "name": "David Pettit",
+  "title": "Software Developer",
+  "contact_email": "dkpettit@gmail.com",
+  "github_handle": "Dkpettit",
+  "education": {
+    "school": "Fanshawe College",
+    "degree": "Computer Programmer Analyst",
+    "graduated": "December 2020"
+  },
+  "jobs": [
+    {
+      "company": {
+        "name": "Canada Life",
+        "website": "https://canadalife.com"
+      },
+      "positions": [
+        {
+          "title": "Software Developer",
+          "duration": "September 2019 &mdash; Present"
+        }
+      ],
+      "description": "Development tasks related to a suite of “Illustration” software at Canada Life, used to “Illustrate” customer insurance policies.",
+      "accomplishments": [
+        "Currently crushing it",
+        "Manage effort across multiple projects with conflicting timelines in a demanding environment tracking my efforts and responsibilities with JIRA",
+        "Work directly with business to help set and understand requirements, work with Project Managers to deliver on various projects, and through Confluence to collaborate with stakeholders at all levels",
+        "Communicate with PM, Sponsor, Business Manager regularly with updates and to resolve issues",
+        "Respond to bugfix, hotfix and incidents to resolve complex problems",
+        "Development and testing of features, components committing regularly to Bitbucket",
+        "Look for opportunities to create documentation and Job Aids related to software, as well as provide all documentation to projects as required (T2M, Estimates, ARP’s, etc.)",
+        "Work with other developers both on shore and off in a lead developer capacity",
+        "Team security coordinator, disaster recovery team",
+        "Provide detailed estimates for development effort",
+        "Migrate and update legacy software, coordinate exception requests and manage same",
+        "Monitor, deploy and support web applications across 4 environments Served from IIS on Windows 2019 Server, Monitored by Splunk/AppDynamics",
+        "Request, deploy, configure and support Servers, Network devices, test machines, Firewalls, Firewall rules, CSS certs, Ansible Playbooks, Ansible Inventory, Security/Vulnerability scans",
+        "Manage Change and Change requests related to Projects and 3rd party change requests that affect supported applications",
+        "Work with Developers, Technicians, Architects, Specialists to support everything above"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "You Melt Me",
+      "website": "https://Dkpettit.github.io/youMeltMe",
+      "code": "https://github.com/Dkpettit/youMeltMe",
+      "description": "Simple HTML/CSS sample site for a friend to see an example of a site for their business -- not in production, simply an example."
+    },
+    {
+      "name": "Ping",
+      "website": "",
+      "code": "https://githhub.com/Dkpettit/Ping",
+      "description": "A c# application for pinging multiple endpoints provided individuyally or in a CSV file.  I wrote this to assist in a Disaster Recovery Drill as a solution to automate checking multiple servers."
+    },
+    {
+      "name": "Python Download Folder Cleaner",
+      "code": "https://github.com/Dkpettit/pythondownloadcleaner",
+      "description": "Automate the emptying of the download folder in Windows."
+    }
+  ],
+  "skills": {
+    "Front_End": [
+      "JavaScript",
+      "HTML",
+      "NPM/Yarn",
+      "Bootstrap",
+      "Sass",
+      "CSS",
+      "jQuery"
+    ],
+    "Back_End": [
+      "REST APIs",
+      "MySQL",
+      "AWS",
+      "Django",
+      "Node",
+      "React",
+      "Laravel",
+      "Express"
+    ],
+    "Tools": [
+      "Confluence",
+      "Git",
+      "GitHub",
+      "Jira",
+      "Bitbucket",
+      "Heroku",
+      "Digital Ocean",
+      "Linux",
+      "Ansible",
+      "JSON/YAML/XML"
+    ]
+  }
+}

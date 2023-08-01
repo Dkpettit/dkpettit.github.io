@@ -1,0 +1,121 @@
+/*
+Mobile
+*/
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', serif;
+}
+div {
+    display: block;
+}
+.flexbox-container {
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+.sidebar {
+    background-color: slategray;
+    color: white;
+    flex: 1;
+    padding: 1.5em;
+    min-width: 15em;
+    font-family: "Audiowide";
+    margin-right: 10px;
+}
+.hidden-screen-sm {
+    display: none;
+}
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: orangered;
+}
+.avatar {
+    border: 2px solid orangered;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto 25px;
+}
+.icon {
+    width: 25px;
+}
+.link {
+    cursor: pointer;
+    text-align: center;
+}
+.link-sidebar {
+    color: #fcfcfc;
+    display: block;
+    font-size: 1.3em;
+    margin-bottom: 0.2em;
+}
+.center {
+    text-align: center;
+}
+.resume-section-header {
+    font-family: 'Roboto';
+    color: #183d48;
+}
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+strong {
+    font-weight: bold;
+}
+section {
+    display: block;
+}
+.vertical-align {
+    vertical-align: super;
+}
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.skills-element {
+    flex-grow: 1;
+    flex-basis: 25%;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+/*
+Desktop
+*/
+@media only screen and (min-width: 768px){
+    .flexbox-container {
+        -webkit-flex-direction: row;
+        flex-direction: row;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Roboto Slab', serif;
+        color: orangered;
+    }
+    .sidebar {
+        max-width: 15em;
+    }
+    .hidden-screen-sm{
+        display: block;
+    }
+}
+@media (min-width: 320px) and (max-width: 767px){
+    .avatar {
+        margin-bottom:0
+    }
+    .skills-element {
+        flex-basis: 50%;
+    }
+}
