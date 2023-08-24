@@ -51,7 +51,7 @@
       "name": "Ping",
       "website": "",
       "code": "https://githhub.com/Dkpettit/Ping",
-      "description": "A c# application for pinging multiple endpoints provided individuyally or in a CSV file.  I wrote this to assist in a Disaster Recovery Drill as a solution to automate checking multiple servers."
+      "description": "A c# application for pinging multiple endpoints provided individually or in a CSV file.  I wrote this to assist in a Disaster Recovery Drill as a solution to automate checking multiple servers."
     },
     {
       "name": "Python Download Folder Cleaner",
