@@ -22,41 +22,42 @@
       ],
       "description": "Development tasks related to a suite of “Illustration” software at Canada Life, used to “Illustrate” customer insurance policies.",
       "accomplishments": [
-        "Currently crushing it",
-        "Manage effort across multiple projects with conflicting timelines in a demanding environment tracking my efforts and responsibilities with JIRA",
-        "Work directly with business to help set and understand requirements, work with Project Managers to deliver on various projects, and through Confluence to collaborate with stakeholders at all levels",
-        "Communicate with PM, Sponsor, Business Manager regularly with updates and to resolve issues",
-        "Respond to bugfix, hotfix and incidents to resolve complex problems",
-        "Development and testing of features, components committing regularly to Bitbucket",
-        "Look for opportunities to create documentation and Job Aids related to software, as well as provide all documentation to projects as required (T2M, Estimates, ARP’s, etc.)",
-        "Work with other developers both on shore and off in a lead developer capacity",
-        "Team security coordinator, disaster recovery team",
-        "Provide detailed estimates for development effort",
-        "Migrate and update legacy software, coordinate exception requests and manage same",
-        "Monitor, deploy and support web applications across 4 environments Served from IIS on Windows 2019 Server, Monitored by Splunk/AppDynamics",
-        "Request, deploy, configure and support Servers, Network devices, test machines, Firewalls, Firewall rules, CSS certs, Ansible Playbooks, Ansible Inventory, Security/Vulnerability scans",
-        "Manage Change and Change requests related to Projects and 3rd party change requests that affect supported applications",
+        "Work to migrate and update legacy software applications (VBA, VB6, C++Borland, and others) to more modern technology (c#.net, web based technology)",
+        "Introduced .net service components calling Web Services as reference in existing MSAccess applications -- removing their dependence on stored procedure calls to pass through tables in Sybase Databases that had gone out of support",
+        "Introduced security updates to out of support applications such as .net updates and TLS1.2 vs. TLS1.0 ",
+        "Analyze existing pre-requisites and dependencies in entire suite of ‘owned’ applications for out of support technology and components.s",
+        "Work independently across multiple projects with conflicting timelines in a demanding environment tracking my efforts and responsibilities with JIRA ",
+        "Communicate through Confluence to collaborate with stakeholders at all levels",
+        "Development and testing of features, components committing regularly to Bitbucket and Gitlab",
+        "Create and maintain documentation and Job Aids related to software, as well as provide all documentation to projects as required (T2M, Estimates, ARP’s, etc.)",
+        "Partner with, manage and support off-shore developers ",
+        "Team security coordinator",
+        "Disaster Recovery Team Lead 2023",
+        "Disaster Recovery SPOC/SME 2020-2022",
+        "Coordinate exception requests, in support of legacy software dependencies",
+        "Request, deploy, configure and manage Servers, Network devices, test machines, Firewalls, Firewall rules, CSS certs, Ansible, Security/Vulnerability scans",
         "Work with Developers, Technicians, Architects, Specialists to support everything above"
       ]
     }
   ],
   "projects": [
     {
-      "name": "You Melt Me",
-      "website": "https://Dkpettit.github.io/youMeltMe",
-      "code": "https://github.com/Dkpettit/youMeltMe",
-      "description": "Simple HTML/CSS sample site for a friend to see an example of a site for their business -- not in production, simply an example."
-    },
-    {
-      "name": "Ping",
+      "name": "Under Construction",
       "website": "",
-      "code": "https://githhub.com/Dkpettit/Ping",
-      "description": "A c# application for pinging multiple endpoints provided individually or in a CSV file.  I wrote this to assist in a Disaster Recovery Drill as a solution to automate checking multiple servers."
+      "code": "",
+      "description": ""
     },
     {
-      "name": "Python Download Folder Cleaner",
-      "code": "https://github.com/Dkpettit/pythondownloadcleaner",
-      "description": "Automate the emptying of the download folder in Windows."
+      "name": "Under Construction",
+      "website": "",
+      "code": "",
+      "description": ""
+    },
+    {
+      "name": "Under Construction",
+      "website": "",
+      "code": "",
+      "description": ""
     }
   ],
   "skills": {
