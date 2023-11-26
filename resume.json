@@ -11,8 +11,8 @@
   "jobs": [
     {
       "company": {
-        "name": "Canada Life",
-        "website": "https://canadalife.com"
+        "name": "Large International Financial Company based in London",
+        "website": ""
       },
       "positions": [
         {
@@ -20,7 +20,7 @@
           "duration": "September 2019 &mdash; Present"
         }
       ],
-      "description": "Development tasks related to a suite of “Illustration” software at Canada Life, used to “Illustrate” customer insurance policies.",
+      "description": "Development tasks related to a suite of “Illustration” software used to “Illustrate” customer insurance policies.",
       "accomplishments": [
         "*****",
         "Development Tasks:",
