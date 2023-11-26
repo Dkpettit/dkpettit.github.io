@@ -28,7 +28,7 @@ function renderResume(){
       
       projArr.forEach(element =>{
         contentEL.innerHTML += `<div><h3>${element.name}</h3><p>${element.description}</p><a href="${element.code}">
-        <span class="vertical-align">Check it out on Github</span></a></div>
+        <span class="vertical-align">Check it out on Github</span></a></div>${element.website && `<p><a href="${element.website}" ><span class="vertical-align">Click here to visit the site.</span></a></p>`}
         `
       })
       contentEL.innerHTML += `</div></section><section><div class="center"><h4 class="resume-section-header">Education</h4></div><hr>
