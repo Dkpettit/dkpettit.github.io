@@ -18,7 +18,7 @@ div {
     flex-direction: column;
 }
 .sidebar {
-    background-color: slategray;
+    background-color: black;
     color: white;
     flex: 1;
     padding: 1.5em;
