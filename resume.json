@@ -69,10 +69,10 @@
       "description": "An application to track the work and Projects I'm working on.  MongoDB, Node, React, Graphql, Apollo Client -- the backend is served from Render and the frontend from Netlify."
     },
     {
-      "name": "Under Construction",
-      "website": "",
-      "code": "",
-      "description": ""
+      "name": "Dave Pettit's Wordle Clone",
+      "website": "https://dkpettit.github.io/wordle",
+      "code": "https://github.com/Dkpettit/wordle",
+      "description": "HTML, CSS, Javascript Wordle Clone."
     }
   ],
   "skills": {
