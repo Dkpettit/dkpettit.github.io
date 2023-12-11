@@ -12,6 +12,7 @@ function renderResume(){
       var list;
 
       console.log(educationArr);
+      console.log(projArr);
       contentEL.innerHTML += `<div class="center"><h3>Dave Pettit</h3></div>`
       contentEL.innerHTML += `<div class="center"><h4 class="resume-section-header">Experience</h4></div><hr>`
       
