@@ -69,10 +69,10 @@
       "description": "An application to track the work and Projects I'm working on.  MongoDB, Node, React, Graphql, Apollo Client -- the backend is served from Render and the frontend from Netlify."
     },
     {
-      "name": "Dave Pettit's Wordle Clone",
-      "website": "https://dkpettit.github.io/wordle",
-      "code": "https://github.com/Dkpettit/wordle",
-      "description": "HTML, CSS, Javascript Wordle Clone."
+      "name": "Hailey's Book App",
+      "website": "http://tinyurl.com/hailey-books",
+      "code": "https://github.com/Dkpettit/hailey-books",
+      "description": "A Personal Library I created for my grand daughter Hailey, you can search for Books by title and add to you personal list. A MERN application that tracks what books a user is reading, Users are authenticated against a MongoDB users database, assigned a JWT and logged in and out.  A user object is created in localstorage that can be accessed in the App.  Users can search for books via a search that makes a call to an API exposed on RapidAPI.  Results are displayed in a React component and selected Books can be added to the Books DB on Mongo which stores the name, id, and cover url for the book. ."
     }
   ],
   "skills": {
