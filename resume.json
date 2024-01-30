@@ -58,7 +58,7 @@
   "projects": [
     {
       "name": "Dave Pettit's TV Show Collection",
-      "website": "http://tinyurl.com/mu34jjaz",
+      "website": "https://dave-pettit-shows-gy25.onrender.com/",
       "code": "https://github.com/Dkpettit/mern-shows",
       "description": "A MERN application that tracks what shows a user is watching, Users are authenticated against a MongoDB users database, assigned a JWT and logged in and out.  A user object is created in localstorage that can be accessed in the App.  Users can search for TV shows via a search that makes a call to an IMDB API exposed on RapidAPI.  Results are displayed in a React component and selected Shows can be added to the Shows DB on Mongo which stores the name, id, and poster url for the show."
     },
