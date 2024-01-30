@@ -70,8 +70,8 @@
     },
     {
       "name": "Hailey's Book App",
-      "website": "http://tinyurl.com/hailey-books",
-      "code": "https://hailey-books-g8d9.onrender.com",
+      "website": "https://hailey-books-g8d9.onrender.com",
+      "code": "https://github.com/Dkpettit/hailey-books",
       "description": "A Personal Library I created for my grand daughter Hailey, you can search for Books by title and add to you personal list. A MERN application that tracks what books a user is reading, Users are authenticated against a MongoDB users database, assigned a JWT and logged in and out.  A user object is created in localstorage that can be accessed in the App.  Users can search for books via a search that makes a call to an API exposed on RapidAPI.  Results are displayed in a React component and selected Books can be added to the Books DB on Mongo which stores the name, id, and cover url for the book. ."
     }
   ],
