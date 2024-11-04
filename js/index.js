@@ -1,5 +1,5 @@
 // Select Elements
-import data from '/resume.json' assert { type: 'json'};
+import data from '/resume.json' with { type: 'json'};
 const contentEL = document.querySelector(".content");
 const json = JSON.stringify("resume.json");
 
